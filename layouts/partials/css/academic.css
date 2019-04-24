@@ -2457,3 +2457,6 @@ body.dark,
 .dark .btn.btn-primary.active {
   color: initial;
 }
+/* Contact Icons Size */
+.fa-2x {font-size: 1.5em;
+}
