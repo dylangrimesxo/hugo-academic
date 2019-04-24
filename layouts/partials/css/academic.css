@@ -735,7 +735,7 @@ ul.network-icon {
 }
 
 #profile .network-icon {
-  margin-top: 30px;
+  margin-top: 20px;
 }
 
 .network-icon li {
@@ -751,7 +751,7 @@ ul.network-icon {
 }
 
 .big-icon {
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 
 ul.ul-interests li {
@@ -1523,7 +1523,7 @@ article .article-metadata {
 .contact-widget .fa-li {
   position: absolute;
   left: -3.14285714rem; /* Negative of `.contact-widget .fa-ul` margin. */
-  width: 2rem; /* Match `fa-2x` icon size. */
+  width: 1.5rem; /* Match `fa-2x` icon size. */
   top: 0.14285714em; /* Default FA value. */
   text-align: center;
 }
